@@ -1,0 +1,72 @@
+[
+  {
+    "city": "Mumbai",
+    "network_status": "Degraded",
+    "outage": true,
+    "estimated_resolution": "2026-07-07T18:30:00+05:30",
+    "signal_strength": "Weak"
+  },
+  {
+    "city": "Delhi",
+    "network_status": "Operational",
+    "outage": false,
+    "estimated_resolution": "N/A",
+    "signal_strength": "Strong"
+  },
+  {
+    "city": "Bengaluru",
+    "network_status": "Operational",
+    "outage": false,
+    "estimated_resolution": "N/A",
+    "signal_strength": "Strong"
+  },
+  {
+    "city": "Chennai",
+    "network_status": "Major Outage",
+    "outage": true,
+    "estimated_resolution": "2026-07-07T21:00:00+05:30",
+    "signal_strength": "No Signal"
+  },
+  {
+    "city": "Hyderabad",
+    "network_status": "Operational",
+    "outage": false,
+    "estimated_resolution": "N/A",
+    "signal_strength": "Moderate"
+  },
+  {
+    "city": "Pune",
+    "network_status": "Partial Outage",
+    "outage": true,
+    "estimated_resolution": "2026-07-07T17:15:00+05:30",
+    "signal_strength": "Weak"
+  },
+  {
+    "city": "Kolkata",
+    "network_status": "Operational",
+    "outage": false,
+    "estimated_resolution": "N/A",
+    "signal_strength": "Moderate"
+  },
+  {
+    "city": "Ahmedabad",
+    "network_status": "Operational",
+    "outage": false,
+    "estimated_resolution": "N/A",
+    "signal_strength": "Strong"
+  },
+  {
+    "city": "Jaipur",
+    "network_status": "Degraded",
+    "outage": true,
+    "estimated_resolution": "2026-07-07T19:00:00+05:30",
+    "signal_strength": "Weak"
+  },
+  {
+    "city": "Lucknow",
+    "network_status": "Operational",
+    "outage": false,
+    "estimated_resolution": "N/A",
+    "signal_strength": "Moderate"
+  }
+]

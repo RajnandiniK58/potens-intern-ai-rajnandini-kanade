@@ -1,0 +1,102 @@
+[
+  {
+    "customer_id": "CUST1001",
+    "name": "Aarav Mehta",
+    "mobile_number": "+919810001001",
+    "city": "Mumbai",
+    "active_plan": "Unlimited 5G 599",
+    "sim_status": "Active",
+    "recent_ticket": "Intermittent call drops during evening hours",
+    "account_status": "Good Standing"
+  },
+  {
+    "customer_id": "CUST1002",
+    "name": "Priya Nair",
+    "mobile_number": "+919820001002",
+    "city": "Bengaluru",
+    "active_plan": "Family Max 999",
+    "sim_status": "Active",
+    "recent_ticket": "Recharge successful but data balance not updated",
+    "account_status": "Good Standing"
+  },
+  {
+    "customer_id": "CUST1003",
+    "name": "Rohan Verma",
+    "mobile_number": "+919830001003",
+    "city": "Delhi",
+    "active_plan": "Postpaid Plus 799",
+    "sim_status": "Blocked",
+    "recent_ticket": "SIM blocked after suspected fraudulent activity",
+    "account_status": "Under Review"
+  },
+  {
+    "customer_id": "CUST1004",
+    "name": "Sneha Iyer",
+    "mobile_number": "+919840001004",
+    "city": "Chennai",
+    "active_plan": "Smart Prepaid 299",
+    "sim_status": "Pending Activation",
+    "recent_ticket": "New SIM not activated after KYC submission",
+    "account_status": "Verification Pending"
+  },
+  {
+    "customer_id": "CUST1005",
+    "name": "Karan Malhotra",
+    "mobile_number": "+919850001005",
+    "city": "Hyderabad",
+    "active_plan": "Work Pro 1199",
+    "sim_status": "Active",
+    "recent_ticket": "International roaming not working",
+    "account_status": "Good Standing"
+  },
+  {
+    "customer_id": "CUST1006",
+    "name": "Neha Kapoor",
+    "mobile_number": "+919860001006",
+    "city": "Pune",
+    "active_plan": "Weekend Data 399",
+    "sim_status": "Active",
+    "recent_ticket": "Unable to send SMS to banking short codes",
+    "account_status": "Good Standing"
+  },
+  {
+    "customer_id": "CUST1007",
+    "name": "Vikram Singh",
+    "mobile_number": "+919870001007",
+    "city": "Kolkata",
+    "active_plan": "Unlimited 4G 499",
+    "sim_status": "Active",
+    "recent_ticket": "Frequent no-service indicator indoors",
+    "account_status": "Past Due"
+  },
+  {
+    "customer_id": "CUST1008",
+    "name": "Ananya Das",
+    "mobile_number": "+919880001008",
+    "city": "Ahmedabad",
+    "active_plan": "Student Saver 249",
+    "sim_status": "Pending Activation",
+    "recent_ticket": "Port-in request pending beyond committed date",
+    "account_status": "Verification Pending"
+  },
+  {
+    "customer_id": "CUST1009",
+    "name": "Rahul Joshi",
+    "mobile_number": "+919890001009",
+    "city": "Jaipur",
+    "active_plan": "Postpaid Lite 499",
+    "sim_status": "Active",
+    "recent_ticket": "Incorrect late fee applied on latest bill",
+    "account_status": "Good Standing"
+  },
+  {
+    "customer_id": "CUST1010",
+    "name": "Meera Kulkarni",
+    "mobile_number": "+919900001010",
+    "city": "Lucknow",
+    "active_plan": "Combo Voice+Data 349",
+    "sim_status": "Blocked",
+    "recent_ticket": "SIM replacement requested after phone loss",
+    "account_status": "Temporarily Suspended"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "topic": "SIM Replacement",
+    "summary": "Customers may request SIM replacement due to loss, physical damage, or SIM failure. Identity verification is mandatory before issuing a new SIM.",
+    "recommended_action": "Verify customer identity using registered ID and OTP, block old SIM immediately, raise replacement request, and inform activation timeline (usually 2-4 hours after issuance)."
+  },
+  {
+    "topic": "Porting",
+    "summary": "Mobile number porting can be delayed due to mismatched KYC details, unpaid dues with previous operator, or incorrect UPC submission.",
+    "recommended_action": "Validate UPC and KYC details, confirm outstanding dues status, re-submit port request if needed, and provide expected completion window (up to 72 hours)."
+  },
+  {
+    "topic": "Recharge Failure",
+    "summary": "Recharge failures may occur due to payment gateway timeouts, bank-side reversals, or delayed wallet confirmations.",
+    "recommended_action": "Check transaction reference ID, verify payment status with gateway, manually credit balance if payment is successful but not reflected, or advise refund timeline if payment failed."
+  },
+  {
+    "topic": "Billing Issues",
+    "summary": "Billing complaints include unexpected charges, duplicate deductions, prorated plan confusion, and incorrect late fees.",
+    "recommended_action": "Review recent invoices and usage logs, identify disputed line items, raise billing adjustment ticket where valid, and communicate revised bill amount and resolution SLA."
+  },
+  {
+    "topic": "Network Issues",
+    "summary": "Network problems include low signal, call drops, no internet, and complete outages, often linked to tower maintenance or congestion.",
+    "recommended_action": "Check city-level outage dashboard, perform basic troubleshooting (airplane mode toggle, network reset, device restart), escalate to network operations if issue persists beyond known outage window."
+  }
+]
